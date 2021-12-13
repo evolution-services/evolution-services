@@ -20,14 +20,14 @@
 ##
 
 I am a Technologist in Management Processes and Systems Analyst, .NET Developer with more than twelve years working in several companies in the e-commerce, banking and healthcare sectors.
-Working in the development of back-end and front-end solutions, using good programming practices and implementing solutions using patterns such as Design Patterns, TDD, DDD and SOLID.
+Acting in the development of back-end and front-end solutions, using good programming practices such as BDD, TDD and SOLID. and implementing solutions using Design Patterns such as Domain Driven Design, Event-Driven.
 
-In my journey always looking for improvement and best practices in the use of frameworks such as scrum ensuring that the ceremonies (Sprint Planning, Daily Meeting, Sprint Review and Retrospective) are applied so that projects are carried out and delivered according to the client's planning.
+In my journey always looking for improvement and best practices in the use of frameworks such as Scrum ensuring that the ceremonies (Sprint Planning, Daily Meeting, Sprint Review and Retrospective) are applied so that projects are built and delivered according to the client's planning.
 
 I have Microsoft Azure Fundamentals entry certification, in addition I have certifications for Web Designer, Solution Development using Asp.Net MVC and
 JavaScript.
 
-I currently work in customer service through my company as a solutions consultant applying what is most modern in the market and evolving legacy systems, focusing on problem solving, always seeking to ensure the quality and continuity of day-to-day operations of customers.
+I currently work in customer service through my company as a solutions consultant, applying what is most modern in the market and evolving legacy systems, focusing on problem solving, always seeking to ensure the quality and continuity of day-to-day operations of customers.
 
 ##
 
